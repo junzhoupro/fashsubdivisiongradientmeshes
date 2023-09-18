@@ -1,0 +1,8 @@
+# Blender v2.78 (sub 0) OBJ File: ''
+# www.blender.org
+v -0.5 -0.5
+v -0.5 0.5
+v 0.5 0.5
+v 0.5 -0.5
+s off
+f 1 2 3 4
