@@ -13,4 +13,4 @@ Qt 5.15.0(The version we used to develop)
 
 ## Run
 
-![Alt text](raw.githubusercontent.com/junzhoupro/fashsubdivisiongradientmeshes/blob/main/MeshTool/examples/Messages%20Image(281018200).png!)
+![Alt text](https://raw.githubusercontent.com/junzhoupro/fashsubdivisiongradientmeshes/main/MeshTool/examples/Messages%20Image(281018200).png)
