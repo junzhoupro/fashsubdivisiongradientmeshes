@@ -1,4 +1,4 @@
-Feature-Adaptive and Hierarchical Subdivision Gradient Meshes
+# Feature-Adaptive and Hierarchical Subdivision Gradient Meshes
 
 A novel method that incorporates the idea of feature-adaptive subdivision and uses approximating patches suitable for hardware tessellation with real-time performance. Further novel features include multiple interaction mechanisms and self-intersection prevention during interactive design/editing.
 
@@ -8,5 +8,4 @@ Install
 
 Qt 5.15.0(The version we used to develop)
 
-![Uploading image.png…]()
 
