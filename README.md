@@ -4,9 +4,9 @@ A novel method that incorporates the idea of feature-adaptive subdivision and us
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14442
 
-![Alt text](https://raw.githubusercontent.com/junzhoupro/fashsubdivisiongradientmeshes/main/MeshTool/examples/06.10.2021.21/49/07.501.png)
+![Alt text](https://raw.githubusercontent.com/junzhoupro/fashsubdivisiongradientmeshes/main/MeshTool/examples/06.10.2021.21%3A49%3A07.501.png)
 
-![Alt text](https://raw.githubusercontent.com/junzhoupro/fashsubdivisiongradientmeshes/main/MeshTool/examples/06.10.2021.21/49/23.651.png)
+![Alt text](https://raw.githubusercontent.com/junzhoupro/fashsubdivisiongradientmeshes/main/MeshTool/examples/06.10.2021.21%3A49%3A23.651.png)
 
 ## Install 
 
