@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fragshadershared.glsl</file>
+        <file>shaders/ACC1/controlshader.glsl</file>
+        <file>shaders/ACC1/evalshader.glsl</file>
+        <file>shaders/ACC1/vertshader.glsl</file>
+        <file>shaders/ACC2/vertshader.glsl</file>
+        <file>shaders/point/fragshader.glsl</file>
+        <file>shaders/point/geomshaderfilled.glsl</file>
+        <file>shaders/point/vertshader.glsl</file>
+        <file>shaders/default/vertshader.glsl</file>
+        <file>shaders/GG/controlshader.glsl</file>
+        <file>shaders/GG/evalshader.glsl</file>
+        <file>shaders/GG/vertshader.glsl</file>
+        <file>shaders/point/geomshaderline.glsl</file>
+        <file>shaders/TP/ACC1/controlshader.glsl</file>
+        <file>shaders/TP/ACC1/constellation1/evalshader.glsl</file>
+        <file>shaders/TP/ACC1/constellation2/evalshader.glsl</file>
+        <file>shaders/TP/ACC1/constellation3/evalshader.glsl</file>
+        <file>shaders/TP/ACC1/constellation4/triangles/evalshader.glsl</file>
+        <file>shaders/TP/ACC1/constellation4/quad/evalshader.glsl</file>
+        <file>shaders/TP/ACC1/constellation5/evalshader.glsl</file>
+        <file>shaders/TP/vertshader.glsl</file>
+        <file>shaders/TP/ACC2/controlshader.glsl</file>
+        <file>shaders/TP/ACC2/constellation1/evalshader.glsl</file>
+        <file>shaders/TP/ACC2/constellation2/evalshader.glsl</file>
+        <file>shaders/TP/ACC2/constellation3/evalshader.glsl</file>
+        <file>shaders/TP/ACC2/constellation4/quad/evalshader.glsl</file>
+        <file>shaders/TP/ACC2/constellation4/triangles/evalshader.glsl</file>
+        <file>shaders/TP/ACC2/constellation5/evalshader.glsl</file>
+        <file>shaders/ACC2/quads/controlshader.glsl</file>
+        <file>shaders/ACC2/quads/evalshader.glsl</file>
+        <file>shaders/ACC2/triangles/controlshader.glsl</file>
+        <file>shaders/ACC2/triangles/evalshader.glsl</file>
+        <file>shaders/line/fragshader.glsl</file>
+        <file>shaders/line/vertshader.glsl</file>
+    </qresource>
+</RCC>
